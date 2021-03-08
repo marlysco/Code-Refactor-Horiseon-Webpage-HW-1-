@@ -40,7 +40,7 @@ li {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 20px;
-  
+
 }
 
 a {
@@ -62,6 +62,7 @@ a {
 /*Article Design*/
 
 /*Main Content Design*/
+
 article {
     display: inline-block;
 }
